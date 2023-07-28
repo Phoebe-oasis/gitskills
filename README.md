@@ -1,4 +1,4 @@
 # gitskills
 Creating a new branch is quick.
 add a new line as dev branch.
-and a new line.
+Creating a new branch is quick & simple.
